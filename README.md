@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhail Kulik</h1>
-<h3 align="center">A machine learning researcher from Russia</h3>
+<h3 align="center">A machine learning researcher</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="300"/>
